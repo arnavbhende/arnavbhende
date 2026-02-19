@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Arnav Bhende</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&pause=1000&color=F78FB3&center=true&vCenter=true&width=500&lines=UI%2FUX+Designer;Product+Design+Enthusiast;Designing+with+Purpose+%F0%9F%92%95"/>
+</p>
+
 <h3 align="center">IT Engineering Student | Backend Developer | AI & IoT Projects</h3>
+
 
 <p align="center">
 <a href="https://linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin"></a>
